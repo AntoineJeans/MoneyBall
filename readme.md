@@ -1,7 +1,5 @@
 Link for dataset: https://www.kaggle.com/datasets/open-source-sports/baseball-databank?resource=download&select=Batting.csv
 
-
-
 # Questions about the data
 - How do we deal with gaps in the years? Should there be a skipped years feature?
 - How do we deal with multiple records in the same year for the same player? Should we just add them?
